@@ -1,2 +1,5 @@
-# quarkus-samples
-quarkus-samples
+# jakarta-samples
+
+```bash
+clean package cargo:run
+```
